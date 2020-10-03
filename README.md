@@ -6,9 +6,13 @@
 - obj.data
 
 > classes = 80
+
 > train = /darknet/train.txt
+
 > valid = /darknet/valid.txt
+
 > names = /darknet/obj.names
+
 > backup = /darknet/backup/
 
 - obj.cfg
