@@ -1,5 +1,7 @@
 # YOLO
 
+> ./darknet detector train build/darknet/x64/data/obj.data build/darknet/x64/cfg/yolo-obj2.cfg build/darknet/x64/yolov4.conv.137 -map
+
 ## How to implement Darknet to train my own data
 
 ## conf
